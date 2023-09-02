@@ -1,0 +1,16 @@
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/FishShooting.csproj.AssemblyReference.cache
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/FishShooting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/FishShooting.AssemblyInfoInputs.cache
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/FishShooting.AssemblyInfo.cs
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/FishShooting.csproj.CoreCompileInputs.cache
+/Users/anhiuz/Desktop/C#/FishShooting/bin/Debug/netcoreapp5.0/FishShooting
+/Users/anhiuz/Desktop/C#/FishShooting/bin/Debug/netcoreapp5.0/FishShooting.deps.json
+/Users/anhiuz/Desktop/C#/FishShooting/bin/Debug/netcoreapp5.0/FishShooting.runtimeconfig.json
+/Users/anhiuz/Desktop/C#/FishShooting/bin/Debug/netcoreapp5.0/FishShooting.runtimeconfig.dev.json
+/Users/anhiuz/Desktop/C#/FishShooting/bin/Debug/netcoreapp5.0/FishShooting.dll
+/Users/anhiuz/Desktop/C#/FishShooting/bin/Debug/netcoreapp5.0/FishShooting.pdb
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/FishShooting.dll
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/refint/FishShooting.dll
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/FishShooting.pdb
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/FishShooting.genruntimeconfig.cache
+/Users/anhiuz/Desktop/C#/FishShooting/obj/Debug/netcoreapp5.0/ref/FishShooting.dll
